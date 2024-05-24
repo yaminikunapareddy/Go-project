@@ -1,2 +1,10 @@
 # Go-project
-Created a repository named Go project in the personal git hub. Cloned the repository locally to reflect in the local machine. Opened the same folder in the visual studio code and included a go programming file to include the code. Paste the code present in the repository and run it successfully. Push the code file on tot repository.
+This project contains a Go program.
+This program prints a greeting messege Hello from Yamini Kuapareddy (500234808).
+We have to install Go in our system.
+We clone the repository to our system by going to terminal: [git clone https://github.com/<your-username>/<repository-name>.git].
+We will navigate the repository to the directory by cd <repository-name> in our terminal.
+We will run the the go program by go run main.go
+We will save the program.
+We coomit our changes with a messege.
+Pushing our changes to git hub.
